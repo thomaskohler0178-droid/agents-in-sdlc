@@ -1,6 +1,6 @@
 ---
 slug: pt-br/real-world-development/vscode
-title: "VS Code"
+title: "Visual Studio Code"
 authors:
   - geektrainer
 lastUpdated: 2026-06-30
@@ -19,8 +19,8 @@ Você começará adicionando instruções personalizadas e observando o Copilot 
 | [2. Modo de agente][ex2] | Geração de código | Crie uma funcionalidade de filtragem com o modo de agente |
 | [3. MCP com Playwright][ex3] | Ferramentas externas | Teste a funcionalidade em um navegador com o servidor MCP do Playwright |
 | [4. Agentes personalizados][ex4] | Agentes especializados | Revise e use agentes personalizados |
-| [5. Gerenciamento de agentes][ex5] | Monitoramento | Monitore e oriente sessões de agentes |
-| [6. Iteração][ex6] | Revisão | Revise o trabalho do Copilot localmente e escolha os próximos passos |
+| [5. Gerenciar agentes][ex5] | Monitoramento | Acompanhe e direcione sessões de agentes |
+| [6. Iterar][ex6] | Revisão | Revise o trabalho do Copilot localmente e escolha as próximas etapas |
 | [Opcional: Incorporar o Foundry][foundry-toolkit] | Agentes de IA | Prepare um modelo, implante um agente e conecte-o ao site em três módulos com o VS Code e o Foundry Toolkit |
 
 ## Pré-requisitos
@@ -31,10 +31,10 @@ Antes de participar deste workshop, certifique-se de ter:
 - [ ] Acesso ao GitHub Codespaces
 
 > [!TIP]
-> Não tem um plano pago? Estudantes verificados podem obter o GitHub Copilot gratuitamente por meio do [GitHub Education][callout-student-plan-education]. O plano **Copilot Student** inclui os recursos de agente, MCP, revisão de código e Copilot CLI usados neste workshop — portanto, você pode concluir todas as trilhas com ele.
+> Não tem um plano pago? Estudantes com status verificado podem obter o GitHub Copilot gratuitamente pelo [GitHub Education][callout-student-plan-education]. O plano **Copilot Student** inclui o agente, MCP, revisão de código e os recursos do Copilot CLI usados neste workshop — assim, você pode concluir todas as trilhas com esse plano.
 
 [callout-student-plan-education]: https://github.com/education/students
-## Primeiros passos
+## Comece
 
 **[Comece pelo Exercício 0: Pré-requisitos →][ex0]**
 
